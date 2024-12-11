@@ -2,6 +2,7 @@
   "name": "foxtrotromeo",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://fike-rehman.github.io/FoxtrotRomeo/",
   "type": "module",
   "scripts": {
     "dev": "vite",
